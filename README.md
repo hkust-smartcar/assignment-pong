@@ -30,7 +30,7 @@ Provided skeletons:
 
 ### Submission
 
-To submit, set up a private Github repo and invite all spectators as collaborators. You need to finish your protocol before 5 Jan 2018, and mark it as Milestone 1 on Github; finish the whole game before 10 Jan 2018, and mark it as Milestone 2. There will be a tournament later, date, time, venue TBA.
+To submit, set up a private Github repo and invite all spectators as collaborators. You need to finish your protocol before 7 Jan 2018, and mark it as Milestone 1 on Github; finish the whole game before 25 Jan 2018, and mark it as Milestone 2. There will be a tournament later, date, time, venue TBA.
 
 All spectators:
 
